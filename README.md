@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @BCVBeck2019
-- 👀 I’m interested in Data Analytics, Data Science, and Database Development.
-- 🌱 I’m currently learning very basic Python.
+- 👋 Hi, Bruce Beck
+- 👀 I’m interested in Data Analytics, Data Science, Database Development and GitHub.
+- 🌱 Just completed the GDAC on 2022/07/06 and am currently working through a SQLite course.
 - 💞️ I’m looking to collaborate on data analysis projects, but, to be honest, I don't know enough to be particularly helpful.  I do have some skills in the real of MS Excel, but that's about it. ...
 - 📫 How to reach me:  beb_learning@icloud.com
-<!---
-BCVBeck2019/BCVBeck2019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
